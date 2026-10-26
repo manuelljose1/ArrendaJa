@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "ArrendaJá",
+    "slug": "arrendaja",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "android": {
+      "package": "ao.arrendaja.app"
+    },
+    "ios": {
+      "bundleIdentifier": "ao.arrendaja.app"
+    }
+  }
+}
